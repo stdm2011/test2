@@ -1,0 +1,8 @@
+{
+  "name": "wagemage/test2",
+  "description": "test",
+  "type": "magento2-module",
+  "license": [
+    "MIT"
+  ]
+}
